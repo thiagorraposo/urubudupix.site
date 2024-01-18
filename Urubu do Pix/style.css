@@ -1,0 +1,32 @@
+@media (min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+
+}
+.servicosbg{
+    background-color: rgb(25, 25, 25);
+    height: 300px;
+}
+.news{
+    background-color: rgb(37, 100, 37);
+}
+.cardl{
+    background-color: rgb(50, 50, 50);
+}
+#box-bg{
+    background-color: rgb(25, 25, 25);
+}
+
+#mcard{
+    background-color: rgb(24, 58, 24);
+}
+#h2{
+    font-size: 50px;
+}
+#h1{
+    font-size: 50px;
+}
+#servicos{
+    background-color: rgb(50, 50, 50);
+}
